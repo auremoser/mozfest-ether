@@ -1,0 +1,26 @@
+{
+    "session_id": 988,
+    "title": "Open science in drug design: Analysis and visualization of an open experimental dataset of FDA approved cancer drugs",
+    "views": 36,
+    "total_favs": 18,
+    "fav_count": 21,
+    "unfav_count": 3,
+    "session_notes": 12,
+    "space": "Open science",
+    "pathway": "The Future of the Web, \"Multi-lingual MozFest\"",
+    "language": "French, English",
+    "etherpad": "https://public.etherpad-mozilla.org/p/mozfest-2016-open-science-in-drug-design--analysis",
+    "notes": "Open science in drug design: Analysis and visualization of an open experimental dataset of FDA approved cancer drugs\n\nFacilitator:\n\t* Sonya Hanson (@sonyahans), Memorial Sloan Kettering Cancer Center\n\nResources:\n\t*  https://github.com/sonyahanson/mozfest-assaytools\n\t*  PDF of slides are also at link above.\n\nMore advanced resources:\n\t*  https://github.com/choderalab/assaytools/\n\t*  https://github.com/choderalab/fluorescence-assay-manuscript\n\nLinks:\n\t*  https://www.transcriptic.com/\n\t*  https://opentrons.com/\n\t*  https://github.com/autoprotocol/autoprotocol-python\n\t* \n\t*  https://www.bindingdb.org/bind/ByFDAdrugs.jsp\n\t* https://www.ebi.ac.uk/training/online/course/chembl-quick-tour/searching-and-getting-data-chembl\n\t* \n\nUsing this etherpad:\n\nThis pad text is synchronized as you type, so that everyone viewing this page sees the same text. This allows you to collaborate seamlessly on documents!\n\nWhat we did with iPython notebooks:\n     - cloned using github or downloaded zip of https://github.com/sonyahanson/mozfest-assaytools\n     - went to this new directory and typed 'ipython notebook' (might require installation of ipython and jupyter)\n     - opened 'Simulating a Binding Dataset.ipynb' and ran through each cell (might require installation of matplotlib, numpy, and scipy)\n\n\n\n\n",
+    "id": 988,
+    "url": "https://public.etherpad-mozilla.org/p/mozfest-2016-open-science-in-drug-design--analysis/export/txt",
+    "empty": false,
+    "character_count": 1296,
+    "term_occurrence": {
+        "open": 6,
+        "libre": 0,
+        "innovation": 0,
+        "inclusion": 0,
+        "privacy": 0,
+        "science": 2
+    }
+}

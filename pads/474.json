@@ -1,0 +1,26 @@
+{
+    "session_id": 474,
+    "title": "Machine Learning for Humans",
+    "views": 58,
+    "total_favs": 73,
+    "fav_count": 77,
+    "unfav_count": 4,
+    "session_notes": 15,
+    "space": "Open science",
+    "pathway": "",
+    "language": "",
+    "etherpad": "https://public.etherpad-mozilla.org/p/mozfest-2016-machine-learning-for-humans",
+    "notes": "Welcome to \"Machine Learning for Humans\"\n\nPlease mark your presence with your name and one line description what you do -\nIf you do come back to this page, please add your email ID too.\n\n\t* Mohamad : digital Journalist \n\t* Dave : Computing and Audio technology Researcher (sound effects for video games)\n\t* Tuomas : Computing and natural language processing\n\t* Awad : Programmer\n\t* Paul - Product Manager/narrative researcher\n\t* David: interactive journalist\n\t* Nadine: Warwick technology volunteers\n\t* Jason Rae RoR developer\n\t* Nick Briz nickbriz@gmail.com THANK YOU!!! :D\n\t* George McCarron: IB Student // Twitter: @george_mccarron\n\n\n\n\n\n\n\n\n\nWeb links for online demos - \n\n\t* http://www.r2d3.us/visual-intro-to-machine-learning-part-1/\n\n\t* http://cs.stanford.edu/people/karpathy/convnetjs/demo/image_regression.html\n\n\t* https://predictors.ai/#/user/predictors_ai_demo\n\n\t* http://playground.tensorflow.org/\n\n\t* https://www.tensorflow.org/versions/r0.11/tutorials/mnist/beginners/index.html\n\n\t* http://www.nytimes.com/interactive/science/rock-paper-scissors.html?ref=science&_r=0\n\n\n\n\n\n",
+    "id": 474,
+    "url": "https://public.etherpad-mozilla.org/p/mozfest-2016-machine-learning-for-humans/export/txt",
+    "empty": false,
+    "character_count": 1085,
+    "term_occurrence": {
+        "open": 0,
+        "libre": 0,
+        "innovation": 0,
+        "inclusion": 0,
+        "privacy": 0,
+        "science": 2
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "session_id": 720,
+    "title": "Culturebots and AnneDroid Brontës",
+    "views": 31,
+    "total_favs": 29,
+    "fav_count": 35,
+    "unfav_count": 6,
+    "session_notes": 20,
+    "space": "Digital arts and culture",
+    "pathway": "",
+    "language": "",
+    "etherpad": "https://public.etherpad-mozilla.org/p/mozfest-2016-culturebots-and-annedroid-bront-s",
+    "notes": "Etherpad: Culturebots and AnneDroid Brontes\n\nHousekeeping\n\n*This session is not in the Mezzanine Room, it is in the space immediately behind the Arts and Culture welcome desk on the 1st floor*\n\nAny questions? You can reach me on Twitter @mentionthewar\n\nUseful links\n\nhttps://www.pythonanywhere.com/\nhttps://github.com/mentionthewar/AndroidBrontes\n\nTweepy documentation - http://docs.tweepy.org/en/v3.5.0/api.html#api-reference\nEngland's Immigrants 1330-1550 data https://github.com/mentionthewar/EnglandsImmigrants\n\nBots\n\nSome examples at https://twitter.com/mentionthewar/lists/bots/members\n\nTwo favourites would be Magic Realism Bot (https://twitter.com/MagicRealismBot) and Census Americans (https://twitter.com/censusamericans)\n\nBonus bot: Beyoncéchain (https://twitter.com/blkchninstitute) takes tweets about blockchain and replaces them with tweets about Beyonce - obviously.\n\nTutorial\n\nTwitter setup\n1. Log into your Twitter account and go to https://apps.twitter.com/\n2. Create a new app (specify http://www.madeupurl.com for the url and leave the other field blank.\n3. Go to the keys and access tokens tab. Scroll down and hit the ‘generate token’ button.\n4. Hang on to these details\n\nCode setup\n5. Create PythonAnywhere account via https://www.pythonanywhere.com/\n6. Get files from github via https://github.com/mentionthewar/AndroidBrontes \n7. Upload files to Python anywhere\n8. Edit python code in twitter-bot-v3.py:\n\t\t* Select your Bronte sister (a-liners, c-liners or e-liners)\n\t\t* Change sleep time to 600 (bot will now tweet every 10 minutes)\n9. Edit keys.py to fill in details from #4 above\n\nIf you have any particular favourite bots please do share them here.\n\nClitoscope - a Twitter bot promoting cliteracy\nhttps://twitter.com/clitoscope\n\nSunny Day 4PM - a bot making ice cream illustrations\nhttps://twitter.com/sunnyday4pm\n\nMagical Realism Bot\nhttps://twitter.com/MagicRealismBot\n\n\n",
+    "id": 720,
+    "url": "https://public.etherpad-mozilla.org/p/mozfest-2016-culturebots-and-annedroid-bront-s/export/txt",
+    "empty": false,
+    "character_count": 1902,
+    "term_occurrence": {
+        "open": 0,
+        "libre": 0,
+        "innovation": 0,
+        "inclusion": 0,
+        "privacy": 0,
+        "science": 0
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "session_id": 376,
+    "title": "Multiplayer Web Games: Build your own!",
+    "views": 24,
+    "total_favs": 48,
+    "fav_count": 51,
+    "unfav_count": 3,
+    "session_notes": 23,
+    "space": "Demystify the web",
+    "pathway": "",
+    "language": "",
+    "etherpad": "https://public.etherpad-mozilla.org/p/mozfest-2016-multiplayer-web-games--build-your-own",
+    "notes": "Multiplayer Snake!\n\n\t* Github Repo\n\t\t* http://github.com/flukeout/snek\n\t\t* Ask us questions and get help by filing issues!\n\n\t* Play Online\n\t\t* http://multisnek.herokuapp.com/\n\t\t* Short link - https://goo.gl/O63CQy\n\n\t* Play locally\n\t* Connect to the Rave network\n\t\t* http://172.16.0.64:3000/\n\t\t* Controller as phone - http://172.16.0.64:3000/touchpad\n\n\t* Silde Deck (not important)\n\t\t* http://goo.gl/0Z9Ln9\n\n\nOther multiplayer experiences\n\n\t* Big list of multiplayer games\n\t\t* http://iogames.space/\n\nSome cool ones\n\t* http://slither.io\n\t* \n\n\nSounds\n\n\t* Noise for fun - http://www.noiseforfun.com/browse-sound-effects/\n\t* Freesound - https://www.freesound.org/\n\t* Open Game Art - http://opengameart.org/\n\t* Bfxr (generate 8-bit sounds) http://www.bfxr.net/\n\n\nColors\n\n\t* Generate color palates - http://tools.medialab.sciences-po.fr/iwanthue/\n\n\nGamedev Forums & Communities\n\n\t* Reddit https://www.reddit.com/r/gamedev/\n\t* HTML 5 Game Devs Forum http://www.html5gamedevs.com/index.php\n\n\n",
+    "id": 376,
+    "url": "https://public.etherpad-mozilla.org/p/mozfest-2016-multiplayer-web-games--build-your-own/export/txt",
+    "empty": false,
+    "character_count": 983,
+    "term_occurrence": {
+        "open": 2,
+        "libre": 0,
+        "innovation": 0,
+        "inclusion": 0,
+        "privacy": 0,
+        "science": 1
+    }
+}

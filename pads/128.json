@@ -1,0 +1,26 @@
+{
+    "session_id": 128,
+    "title": "Demystifying Artificial Intelligence",
+    "views": 59,
+    "total_favs": 74,
+    "fav_count": 81,
+    "unfav_count": 7,
+    "session_notes": 7,
+    "space": "Open science",
+    "pathway": "",
+    "language": "",
+    "etherpad": "https://public.etherpad-mozilla.org/p/mozfest-2016-demystifying-artificial-intelligence",
+    "notes": "Name of the session: \nDemystifying Artificial Intelligence\n\nLocation : Fireside chat near coffee area Open science level 9\n\nTime : 3:15pm-3:45pm\n\nHashtag : #AI@Mozfest\n\nGithub Repo: https://github.com/dvigneshwer/DemystifyingAI\n\nDiscussions points :\n    \n\t* Interesting tutorials to get started with Machine learning - Course on machine learning by andrew NG and keras (dataschool.io)\n\t* Modules involved in Male and Female classification :- keras, numpy, os , sys, matplotlib (keras.io)\n\t* using crowd ai platforms to get different solution for the problem statement (crowdai.org)\n\t* Using open data collection standards to properly get data from 3rd party \n\t* Discussion about evolutionary algos \n\t* Different AI products like google now and facebook image tagging\n\t* Looked in Lenet architecture\n\t* Understood the brain model for AI\n\t* Correlated the brain model with the currenlty existing AI prodicts\n\t* Need of decentralization in the field of ai\n\t* Myths about ai\n\t* Need of understanding and clarity about data policy in data collection services\n\t* Future of AI - self driving cars, jarvis\n\t* General steps in how computer vision works\n\nCourses:\nhttp://www.dataschool.io/machine-learning-with-scikit-learn/\nhttps://www.coursera.org/course/neuralnets\n\nBlogs:\nhttps://openai.com/blog/\nhttp://www.kdnuggets.com/\n",
+    "id": 128,
+    "url": "https://public.etherpad-mozilla.org/p/mozfest-2016-demystifying-artificial-intelligence/export/txt",
+    "empty": false,
+    "character_count": 1317,
+    "term_occurrence": {
+        "open": 3,
+        "libre": 0,
+        "innovation": 0,
+        "inclusion": 0,
+        "privacy": 0,
+        "science": 1
+    }
+}

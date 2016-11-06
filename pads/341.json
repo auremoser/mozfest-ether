@@ -1,0 +1,26 @@
+{
+    "session_id": 341,
+    "title": "Computer science meets the classroom",
+    "views": 23,
+    "total_favs": 20,
+    "fav_count": 26,
+    "unfav_count": 6,
+    "session_notes": 7,
+    "space": "Demystify the web",
+    "pathway": "",
+    "language": "",
+    "etherpad": "https://public.etherpad-mozilla.org/p/mozfest-2016-computer-science-meets-the-classroom",
+    "notes": "Computer Science Meets the Classroom\nPresentation @ https://docs.google.com/presentation/d/1i0tcXbGDcOJ3c6FozHrsYuTlEQPAObzRyjZjQdkwtjM/edit?usp=sharing\n\nFacilitators: \n\t* Kim Wilkens, St. Anne's-Belfield School, more @ http://techkim.wikispaces.com (@kimxtom)\n\t* Zach Minster, St. Anne's-Belfield School (@heroiczach)\n\t* Ann Marie Carrothers, Hive Chicago Learning Network\n\nWhat's working in CS education?\n\t* Work experience programs\n\t* Engaging when framed in real world problems\n\t* Hands-on engineering\n\t* Solving problems\n\t* Getting kids making\n\t* Interlinking with other subjects, hobbies & their interests\n\t* CS Unplugged\n\t* Raspberry Pi\n\t* Scratch\n\t* Arduino\n\t* Coding Clubs\n\t* Lego Mindstorms\n\nWhat's not working in CS education?\n\t* Support within school, computing teachers are low on pecking order\n\t* No timetable scheduled for computing\n\t* Disconnect from how it is applied\n\t* Killing enthusiasm by a curriculum that asks them to write about code\n\t* Contrived/useless projects\n\t* Too much focus on math & science\n\t* Not integrated - \"simple experience\"\n\t* Engaging teachers who are scared (those who aren’t already engaged)\n\t* Lack of interest/access/dollars for disadvantaged/rural communities\n\t* If not mandatory barrier is too high, people think math and give up before they even try\n\t* Is not contextualized\n\t* Ill-defined subject\n\t* Bogged down by syntax\n\t* Outdated content\n\t* Lack of teacher experience\n\t* Lack of equipment\n\nWhere are the gaps in CS education?\n\t* More Art\n\t* Need balance between Teaching for mechanics (under the hood) and Teaching for drivers (behind the wheel)\n\t* No black boxes, no magic\n\t* Larger & longer term group projects\n\t* Don’t just need scientists, we need engineers, thinkers, creators\n\nCS Resources shared during session & at MozFest:\n\t* Hummingbird Robotics Kit @ http://www.hummingbirdkit.com/\n\t* GROK Learning @ https://groklearning.com/\n\t* Do It Kits @ http://doitkits.com/\n\t* OhBot @ http://www.ohbot.co.uk/?lang=en\n\t* Nature, in Code @ http://www.natureincode.com/\n\nSession Resources:\n\t* CS K-8 Curriculum at St. Anne's-Belfield School @ http://cs4lv.stab.org\n\t* Coding Core @ http://cc.esntee.com\n\t* Coding Core Lesson Plan Form @ https://goo.gl/forms/cxWnQh4s5sNHMByo1\n\nNotes from related MozFest Sessions:\n\t* Hacking Games to Teach Web Literacy @ https://public.etherpad-mozilla.org/p/mozfest-2016-hacking-games-to-teach-web-literacy\n\t* Build an Open Source Ethical CS Program @ https://public.etherpad-mozilla.org/p/mozfest-2016--build-an-open-source-ethical-cs-prog\n\n\n\n",
+    "id": 341,
+    "url": "https://public.etherpad-mozilla.org/p/mozfest-2016-computer-science-meets-the-classroom/export/txt",
+    "empty": false,
+    "character_count": 2530,
+    "term_occurrence": {
+        "open": 2,
+        "libre": 0,
+        "innovation": 0,
+        "inclusion": 0,
+        "privacy": 0,
+        "science": 3
+    }
+}

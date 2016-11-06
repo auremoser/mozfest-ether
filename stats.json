@@ -39,7 +39,7 @@
     },
     "demystify_the_web": {
         "etherpads": 43,
-        "character_count": 36561,
+        "character_count": 36254,
         "empty": 31,
         "total_favs": 1419,
         "fav_count": 1546,
@@ -129,7 +129,7 @@
     },
     "open_science": {
         "etherpads": 22,
-        "character_count": 20236,
+        "character_count": 20405,
         "empty": 11,
         "total_favs": 673,
         "fav_count": 741,
@@ -137,7 +137,7 @@
         "session_notes": 224,
         "views": 824,
         "term_occurrence": {
-            "open": 56,
+            "open": 57,
             "libre": 1,
             "innovation": 5,
             "inclusion": 0,
@@ -183,7 +183,7 @@
     },
     "programmatic_pieces": {
         "etherpads": 8,
-        "character_count": 47,
+        "character_count": 48,
         "empty": 5,
         "total_favs": 474,
         "fav_count": 559,

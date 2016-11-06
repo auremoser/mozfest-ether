@@ -1,0 +1,26 @@
+{
+    "session_id": 338,
+    "title": "Real-life Open Science workflows: use and interoperability of research tools",
+    "views": 41,
+    "total_favs": 23,
+    "fav_count": 27,
+    "unfav_count": 4,
+    "session_notes": 17,
+    "space": "Open science",
+    "pathway": "",
+    "language": "",
+    "etherpad": "https://public.etherpad-mozilla.org/p/mozfest-2016-real-life-open-science-workflows--use",
+    "notes": "Mozfest 2016 \n\nFriendly URL of this page:\nhttp://bit.ly/mozfest2016osworkflows\n\nThe full image of the workflow that was imagined at this session is in the GitHub repo at:\nhttps://github.com/bmkramer/101innovations-survey-data/tree/mozfest2016-Open-Science-workflows\n\nSession 338 -  Real-life Open Science workflows: use and interoperability of research tools\nSaturday October 29, 3:15pm - 5:15pm\nOpen Science, Floor 9 - 9.03\n\nFacilitators:\n\t* Jeroen Bosman, Utrecht University Library @jeroenbosman https://twitter.com/jeroenbosman\n\t* Bianca Kramer, Utrecht University Library @MsPhelps https://twitter.com/MsPhelps\n\nThe Idea\nWe will look at how Open Science practices can be combined into a full Open Science workflow. We also want to come up with concrete ideas to improve the use and interoperability of Open Science tools, so that scholars and scientists experience less obstacles in using these. \n\nWhat will we be doing\nThere are currently many Open Science tools and platforms available, and we want to explore to which degree researchers can and do employ these in a full Open Science workflow. During MozFest, we would like to do this together using the results of our survey (> 20K respondents), which not only asked about support for Open Science but also about active use of platforms, tools and websites for 17 research activities and our database of >600 research tools. You can contribute with your experience in using research tools, with your ideas on what makes open science tick and with your skills in analysing the survey data and doing some technical appraisal of Open Science tools and platforms. You can also have a look at our open canvas.\n\nUseful links\n\t* Project website: http://101innovations.wordpress.com\n\t* 400+ tool database: http://bit.ly/innoscholcomm-list (with very incomplete list of interoperable tools / interoperability issues)\n\t* Survey data (and script sharing) on Kaggle: https://www.kaggle.com/bmkramer/101-innovations-research-tools-survey \n\t* Interactive dashboard: http://dashboard101innovations.silk.co/ (NB this may or may not work during Mozfest)\n\t* GitHub repo: https://github.com/bmkramer/101innovations-survey-data/tree/mozfest2016-Open-Science-workflows\n\nTemplate for ideas on \"solving\" issues identified in last part of the workshop - fill out! (copy text below to bottom of this etherpad page if needed)\n\n\t1. The identified (interoperability) issue is ......\n\t1. The proposed solution is ......\n\t1. Ways to work on that solution are .....\n\n-------------------------------------------------------------\n\n\t1. The identified (interoperability) issue is ......\n\t1. The proposed solution is ......\n\t1. Ways to work on that solution are .....\n\n--------------------------------------------------------------\n\n\t1. The identified (interoperability) issue is ......\n\t1. The proposed solution is ......\n\t1. Ways to work on that solution are .....\n\n---------------------------------------------------------------\n\n\t1. The identified (interoperability) issue is ......\n\t1. The proposed solution is ......\n\t1. Ways to work on that solution are .....\n\n-----------------------------------------------------------------\n\n\t1. The identified (interoperability) issue is ......\n\t1. The proposed solution is ......\n\t1. Ways to work on that solution are .....\n\n------------------------------------------------------------------\n\n\t1. The identified (interoperability) issue is ......\n\t1. The proposed solution is ......\n\t1. Ways to work on that solution are .....\n\n\n",
+    "id": 338,
+    "url": "https://public.etherpad-mozilla.org/p/mozfest-2016-real-life-open-science-workflows--use/export/txt",
+    "empty": false,
+    "character_count": 3498,
+    "term_occurrence": {
+        "open": 14,
+        "libre": 0,
+        "innovation": 5,
+        "inclusion": 0,
+        "privacy": 0,
+        "science": 13
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "session_id": 743,
+    "title": "Searchable Broadcasts (TV for Robotic Overlords)",
+    "views": 27,
+    "total_favs": 22,
+    "fav_count": 27,
+    "unfav_count": 5,
+    "session_notes": 15,
+    "space": "Journalism",
+    "pathway": "",
+    "language": "",
+    "etherpad": "https://public.etherpad-mozilla.org/p/mozfest-2016-searchable-broadcasts--tv-for-robotic",
+    "notes": "\tSearchable Broadcasts (TV for Robotic Overlords)\n\t\n\tSession Resources: https://github.com/slifty/tvarchive-mozfest-2016\n\thttps://openedcaptions.com/ \n\thttps://github.com/CCExtractor/ccextractor\n\thttps://politicaladarchive.org/debate-project/\n\t\n\tSome repositories:\n\t\t* https://github.com/slifty/tvarchive-duplitron\n\t\t* https://github.com/dpwe/audfprint\n\t\n\tTVNews \"Near RealTime\" item for today's session:\n\t    \n\t    http://archive.org/details/CNNW_20161029_090000_CNN_Newsroom_Live\n\t\n\t    \n\tScreenshots of TV News Archive ( https://archive.org/tv ) and \n\tMozilla Popcorn  ( https://archive.org/pop )\n\thttps://github.com/slifty/tvarchive-mozfest-2016/raw/master/TVnews-and-popcorn.pdf    \n",
+    "id": 743,
+    "url": "https://public.etherpad-mozilla.org/p/mozfest-2016-searchable-broadcasts--tv-for-robotic/export/txt",
+    "empty": false,
+    "character_count": 688,
+    "term_occurrence": {
+        "open": 1,
+        "libre": 0,
+        "innovation": 0,
+        "inclusion": 0,
+        "privacy": 0,
+        "science": 0
+    }
+}

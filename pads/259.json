@@ -1,0 +1,26 @@
+{
+    "session_id": 259,
+    "title": "Collaboration through Github and Rstudio",
+    "views": 30,
+    "total_favs": 27,
+    "fav_count": 27,
+    "unfav_count": 0,
+    "session_notes": 4,
+    "space": "Open science",
+    "pathway": "",
+    "language": "",
+    "etherpad": "https://public.etherpad-mozilla.org/p/mozfest-2016-collaboration-through-github-and-rstu",
+    "notes": "Mozilla Festival  //  Open Science track\n28 -30 October 2016\n\nSession: Collaboration through Github and Rstudio\nSession Time: Saturday, 1PM - 3PM\nSession abstract:\nThis practical session is designed for R users and aims to set beginners in version control up with some basic skills in using github through Rstudio to manage projects and collaborate online.\nThe first part of the session introduces version control and walks participants through installing all required software, setting up a github account, creating repositories, linking them to Rstudio projects and using them to manage workflows openly.\nThe rest of the session explores the use of github and Rstudio for collaboration by walking participants through forking and contributing to an existing github repository. Participants will learn how these technologies can be used to manage communications and contributions within a team. At the end of the session, the contributions of all participants will be collated and used to produce an overall team plot.\nThese very basic skills should form a good foundation for participants to start coordinating collaboration on their own projects and develop their skills further through practice. That’s how I learnt!\nNB. Participants will get the most out of their session if they bring their own laptops.\n\nGitHub Repository link:\nhttps://github.com/annakrystalli/Mozfest_github-rstudio\n    \nSession Facilitators:\nAnna Krystalli, @annakrystalli\nSharada Prasanna Mohanty @MeMohanty\n\nParticipants:\nAlissa Nedossekina, @snowwitje Purdue University\n    \nAgenda:\nhttps://annakrystalli.github.io/Mozfest_github-rstudio/index.html\n\nPRACTICALS\n\nPractical 1: Github & Rstudio for version control\nhttps://github.com/mikecroucher/ISBE_Symposium\n    \nOther Useful Links:  \n\n",
+    "id": 259,
+    "url": "https://public.etherpad-mozilla.org/p/mozfest-2016-collaboration-through-github-and-rstu/export/txt",
+    "empty": false,
+    "character_count": 1766,
+    "term_occurrence": {
+        "open": 2,
+        "libre": 0,
+        "innovation": 0,
+        "inclusion": 0,
+        "privacy": 0,
+        "science": 1
+    }
+}

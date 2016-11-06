@@ -1,0 +1,28 @@
+{
+  "name": "mozfest-ether",
+  "version": "1.0.0",
+  "description": "etherpads text extraction and analysis for mozfest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/auremoser/mozfest-ether.git"
+  },
+  "keywords": [
+    "mozfest",
+    "2016",
+    "etherpads"
+  ],
+  "author": "Aurelia Moser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/auremoser/mozfest-ether/issues"
+  },
+  "homepage": "https://github.com/auremoser/mozfest-ether#readme",
+  "dependencies": {
+    "request": "^2.78.0",
+    "request-promise": "^4.1.1"
+  }
+}

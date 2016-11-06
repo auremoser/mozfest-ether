@@ -1,0 +1,26 @@
+{
+    "session_id": 907,
+    "title": "PAPERS, PLEASE",
+    "views": 34,
+    "total_favs": 31,
+    "fav_count": 35,
+    "unfav_count": 4,
+    "session_notes": 6,
+    "space": "Dilemmas in Connected Spaces",
+    "pathway": "",
+    "language": "",
+    "etherpad": "https://public.etherpad-mozilla.org/p/mozfest-2016-papers--please",
+    "notes": "document.write(\"Hello\");\n\n\n",
+    "id": 907,
+    "url": "https://public.etherpad-mozilla.org/p/mozfest-2016-papers--please/export/txt",
+    "empty": false,
+    "character_count": 27,
+    "term_occurrence": {
+        "open": 0,
+        "libre": 0,
+        "innovation": 0,
+        "inclusion": 0,
+        "privacy": 0,
+        "science": 0
+    }
+}

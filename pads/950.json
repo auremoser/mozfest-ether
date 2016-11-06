@@ -1,0 +1,26 @@
+{
+    "session_id": 950,
+    "title": "Databox",
+    "views": 75,
+    "total_favs": 50,
+    "fav_count": 60,
+    "unfav_count": 10,
+    "session_notes": 58,
+    "space": "Dilemmas in connected spaces",
+    "pathway": "",
+    "language": "",
+    "etherpad": "https://public.etherpad-mozilla.org/p/mozfest-2016-databox",
+    "notes": "See full details about the Databox on \n\nhttp://www.databoxproject.uk/\n\n\"\"\"\nDatabox project is a new £1.5M EPSRC project led by Dr. Hamed Haddadi (QMUL) in collaboration with Dr. Richard Mortier (University of Cambridge) and Professors Derek McAuley, Tom Rodden, Chris Greenhalgh, and Andy Crabtree (University of Nottingham). In this project we will explore the development of the Databox as means of enhancing accountability and giving individuals control over the use of their personal data.\n\nThe Databox envisions an open-source personal networked device, augmented by cloud-hosted services, that collates, curates, and mediates access to an individual’s personal data by verified and audited third party applications and services. The Databox will form the heart of an individual’s personal data processing ecosystem, providing a platform for managing secure access to data and enabling authorised third parties to provide the owner with authenticated services, including services that may be accessed while roaming outside the home environment.\n\nThe Databox project will run for 3 years and starts in October 2016. It is funded by EPSRC, Trust, Identity, Privacy and Security in the Digital Economy theme. Industry partners include the BBC, BT, Microsoft Research, and Telefonica. The project is also supported by the Internet Society, Cornell Tech, and the Horizon Digital Economy Research Institute. The open source platform and app ecosystem code will appear on the repository on GitHub.\n\"\"\"\n\n[Julian Foad] Goals look very closely aligned with the IndieBox \"UBOS\" http://ubos.net/ and the IndieWeb folks https://indieweb.org/ .\n\n",
+    "id": 950,
+    "url": "https://public.etherpad-mozilla.org/p/mozfest-2016-databox/export/txt",
+    "empty": false,
+    "character_count": 1637,
+    "term_occurrence": {
+        "open": 2,
+        "libre": 0,
+        "innovation": 0,
+        "inclusion": 0,
+        "privacy": 1,
+        "science": 0
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "session_id": 409,
+    "title": "Hack and Remix the Web with Web Extensions",
+    "views": 26,
+    "total_favs": 26,
+    "fav_count": 26,
+    "unfav_count": 0,
+    "session_notes": 0,
+    "space": "Fuel the movement",
+    "pathway": "Multi-lingual MozFest",
+    "language": "Italian, English",
+    "etherpad": "https://public.etherpad-mozilla.org/p/mozfest-2016-hack-and-remix-the-web-with-web-exten",
+    "notes": "Hi! Join us in the library on the 4th floor today (Saturday) to build web extensions.\n\nHere are some prerequisites to join our workshop\n\t* laptop\n\t\t* If you don't have one, you can pair with someone else\n\t* some familiarity with building standard websites is recommended\n\nUseful links\n\t* Simple extension example: https://github.com/kumar303/web-ext-workshop\n\t* Documentation: https://developer.mozilla.org/en-US/Add-ons/WebExtensions\n\t* Complex extension examples: https://github.com/mdn/webextensions-examples\n\n\n",
+    "id": 409,
+    "url": "https://public.etherpad-mozilla.org/p/mozfest-2016-hack-and-remix-the-web-with-web-exten/export/txt",
+    "empty": false,
+    "character_count": 514,
+    "term_occurrence": {
+        "open": 0,
+        "libre": 0,
+        "innovation": 0,
+        "inclusion": 0,
+        "privacy": 0,
+        "science": 0
+    }
+}

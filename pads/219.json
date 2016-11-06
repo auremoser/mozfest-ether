@@ -1,0 +1,26 @@
+{
+    "session_id": 219,
+    "title": "Hacking games to teach Web Literacy",
+    "views": 16,
+    "total_favs": 28,
+    "fav_count": 28,
+    "unfav_count": 0,
+    "session_notes": 3,
+    "space": "Demystify the web",
+    "pathway": "Advocacy & Web Literacy",
+    "language": "",
+    "etherpad": "https://public.etherpad-mozilla.org/p/mozfest-2016-hacking-games-to-teach-web-literacy",
+    "notes": "bit.ly/mozfest-hacking-games\n\nThe GitHub repository for this session (aka the mothership)\nhttps://github.com/CodeAndCake/HG2TWL\n\nTools we'll use\nhttp://bit.ly/weblit-hacktivity-ideas-generator\n\nJot down your names and game-hacking workshop ideas under here!\n    \n<example>\nJo, Danny and Sarah \n\"A workshop for adults: hack a shooter game, so that players have to navigate and are rewarded if they practice openly\"\nSome notes about this idea...\n</example>\n\n\n@HeroicZach, @flukeout and?\nPrompt: \"A workshop for children: prototype a card game, so that players have to 'search' and are rewarded if they 'code'!\"\n-- Collaborative coding game --\n\nCode-me-Bot\nPro-bo the Robot (programmable bot)\n\n- Each player selects 3 cards from pile\n- Cards have different pseudocode/syntax; commands that can be linked together\n- You can “program the group” by completing an action....?\n\nIterated:\n    - Collab game, one person is a robot and executes actions that match \"statement\" format (below)\n    - Search through cards; draw a card each turn; when they can, they use a 3 card combo to ; Something like:: <control card> (e.g. loop), <action/function card>, <direction/argument card>\n    - Perhaps a couple of bug cards that can be played at any time: someone could disrupt an action; hack card - inject your own card into existing card\n    - Adding another team so there's adversaries or pair opportunity, risk/reward based on role chosen (we can have different robot per team)\n    - Constraint: min four students\n\nIoannis @ioannis_antypas, Matteo @baddeo and Peter @shadowlostarts\nPrompts: A workshop for teenagers: change a platform game, so that players have to 'design' and are rewarded if they 'navigate'!\nTrollbusters (cyberbullying)\nAn uncomplete game that students have to hack and balance\nNavigate: limits on moves/places you navigate to...\nDesign: level maps, start with easy levels and go harder\n",
+    "id": 219,
+    "url": "https://public.etherpad-mozilla.org/p/mozfest-2016-hacking-games-to-teach-web-literacy/export/txt",
+    "empty": false,
+    "character_count": 1894,
+    "term_occurrence": {
+        "open": 1,
+        "libre": 0,
+        "innovation": 0,
+        "inclusion": 0,
+        "privacy": 0,
+        "science": 0
+    }
+}

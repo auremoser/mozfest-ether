@@ -1,0 +1,26 @@
+{
+    "session_id": 1995,
+    "title": "Storytelling on the web with Snowball, a WordPress plugin for building immersive feature articles",
+    "views": 16,
+    "total_favs": 21,
+    "fav_count": 26,
+    "unfav_count": 5,
+    "session_notes": 11,
+    "space": "Journalism",
+    "pathway": "",
+    "language": "",
+    "etherpad": "https://public.etherpad-mozilla.org/p/mozfest-2016-storytelling-on-the-web-with-snowball",
+    "notes": "Storytelling on the web with Snowball\n\t\t* Session facilitator: Meen Chul Kim (http://meenchulkim.info/)\n\t\t* Lead developer: Thomas H. Park (http://thomaspark.co/)\n\t\t* Project investigator: Andrea Forte (http://www.andreaforte.net/)\n\n\n\t1. Session objectives\n\t\t* Learn to make interactive long-form web articles with Snowball\n\t\t* Customize your website with just a dash of HTML and CSS \n\t\t* Reimagine the future of effective storytelling on the web\n\t1. Introduction\n\t\t2. Motivation\n\t\t\t* Immersive, bespoke, interactive storytelling on the web\n\t\t\t\t* New York Times, \"Snow Fall\" at http://tinyurl.com/hc93r7g\n\t\t\t\t* Bloomberg, \"What Is Code\" at http://tinyurl.com/ofx83cx\n\t\t\t\t* Medium at https://medium.com\n\t\t\t* Real-world usage of WordPress as content management software\n\t\t\t\t* 25% of the entire web (https://ma.tt/2015/11/seventy-five-to-go/)\n\t\t\t\t* 11% of top newspapers and 68% of college newspapers (http://tinyurl.com/jtr2swz)\n\t\t2. Design rationale\n\t\t\t* Developed as an open source tool, integrating learning experiences within existing tools and practices\n\t\t\t* Building articles with blocks\n\t\t\t\t* Breakdown of articles into component blocks\n\t\t\t\t* Bridging the gap between WYSIWYG and code\n\t1. Activities\n\t\t2. Install Snowball (or use our test instance)\n\t\t2. Create an article using blocks of multiple types\n\t\t\t* Basics: text, image, splash, sidenote, and quote\n\t\t\t\t* Sample image: https://static.pexels.com/photos/68085/pexels-photo-68085.jpeg\n\t\t\t* Advanced blocks: media, social, and data\n\t\t2. Customize with code editor or settings\n\t\t2. Exercise\n\t\t\t* Free HD photos: Unsplash at https://unsplash.com/\n\t1. Wrap-up\n\t\t2. Showcase your work\n\t\t\t* Showcase-01: \n\t\t\t* Showcase-02: \n\t\t\t* Showcase-03: \n\t\t\t* Showcase-04: \n\t\t\t* Showcase-05: \n\t\t2. Discussion\n\t\t\t* Pros\n\t\t\t* Cons\n\t\t\t* Suggestions\n\t1. Deliverables\n\t\t2. Technical requirements\n\t\t\t* Required: Bring your own laptops\n\t\t\t* Preferred: Would be amazing if you have used installed WordPress instance\n\t\t2. Resources\n\t\t\t* Project website: http://snowball.openhtml.org/\n\t\t\t* Official plugin directory: https://wordpress.org/plugins/snowball/\n\t\t\t* Examples of Snowball in action\n\t\t\t\t* Taproot Edmonton, \"South Edmonton’s surprising deer paradise\" at http://tinyurl.com/z929498\n\t\t\t\t* The Triangle, \"La Navigation De La Mer\" at http://tinyurl.com/gv478ru\n\t\t\t* Test WordPress instance: http://129.25.8.18/wordpress/\n\t\t2. Test user check-in (leave your name please. password: mozfest16):\n\t\t\t* \"test-user-00\": Lilia Saul\n\t\t\t* \"test-user-01\": Kevin Wojkovich\n\t\t\t* \"test-user-02\": Sagar Sumaria\n\t\t\t* \"test-user-03\": Orion Conroy\n\t\t\t* \"test-user-04\": Carrot Tops (carrottops.net) \n\t\t\t* \"test-user-05\": Ryan Watts\n\t\t\t* \"test-user-06\": Reserved\n\t\t\t* \"test-user-07\": \n\t\t\t* \"test-user-08\": \n\t\t\t* \"test-user-09\": \n\t\t\t* \"test-user-10\": \n\t\t\t* \"test-user-11\": \n\t\t\t* \"test-user-12\": \n\t\t\t* \"test-user-13\": \n\t\t\t* \"test-user-14\": \n\t\t\t* \"test-user-15\": \n\t\t\t* \"test-user-16\": \n\t\t\t* \"test-user-17\": \n\t\t\t* \"test-user-18\": \n\t\t\t* \"test-user-19\": \n",
+    "id": 1995,
+    "url": "https://public.etherpad-mozilla.org/p/mozfest-2016-storytelling-on-the-web-with-snowball/export/txt",
+    "empty": false,
+    "character_count": 2967,
+    "term_occurrence": {
+        "open": 2,
+        "libre": 0,
+        "innovation": 0,
+        "inclusion": 0,
+        "privacy": 0,
+        "science": 0
+    }
+}

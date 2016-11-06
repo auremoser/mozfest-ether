@@ -1,0 +1,26 @@
+{
+    "session_id": 123,
+    "title": "Got Data? Now let's activate it!",
+    "views": 23,
+    "total_favs": 26,
+    "fav_count": 29,
+    "unfav_count": 3,
+    "session_notes": 4,
+    "space": "Fuel the movement",
+    "pathway": "Advocacy & Web Literacy",
+    "language": "",
+    "etherpad": "https://public.etherpad-mozilla.org/p/mozfest-2016-got-data--now-let-s-activate-it",
+    "notes": "Welcome to Etherpad!\n\nThis pad text is synchronized as you type, so that everyone viewing this page sees the same text. This allows you to collaborate seamlessly on documents!\n\nGet involved with Etherpad at http://etherpad.org\n\n",
+    "id": 123,
+    "url": "https://public.etherpad-mozilla.org/p/mozfest-2016-got-data--now-let-s-activate-it/export/txt",
+    "empty": true,
+    "character_count": 0,
+    "term_occurrence": {
+        "open": 0,
+        "libre": 0,
+        "innovation": 0,
+        "inclusion": 0,
+        "privacy": 0,
+        "science": 0
+    }
+}

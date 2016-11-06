@@ -1,0 +1,26 @@
+{
+    "session_id": 596,
+    "title": "What’s a “Progressive Web App” and How Do I Make One?",
+    "views": 39,
+    "total_favs": 57,
+    "fav_count": 57,
+    "unfav_count": 0,
+    "session_notes": 7,
+    "space": "Demystify the web",
+    "pathway": "",
+    "language": "",
+    "etherpad": "https://public.etherpad-mozilla.org/p/mozfest-2016-what-s-a--progressive-web-app--and-ho",
+    "notes": "Welcome to Etherpad!\n\nThis pad text is synchronized as you type, so that everyone viewing this page sees the same text. This allows you to collaborate seamlessly on documents!\n\nGet involved with Etherpad at http://etherpad.org\n\nHurriedly added notes from session:\n\nBlue - Chris Adams @mrchrisadams\n\n## Questions:\n    \n    \n### Can you use PWAs for games?\n\nThere is now webGL, which is growing in support.\nThere are wrappers like three.js and babylon (?), and pixel.js (?)\nIf need be you can fall back to webassembly if you need somethign to be even faster\n\nPassive events\n\n### How big is the cache?\n\nlocal service workers can use indexeddb - pouchdb is the nicest wraper around indexeddb, \n\n### What about UDP for games?\n\nYou have HTTP, and web sockets, but if you need UDP, you might want to consider WebRTC - this is a fast way to send traffic very quickly (this is what video chat uses uses)\n\n### Permissions?\n\nPermission model is at point of use - when you telegraph the permissions you need, then you.\n\nYou expliclty enable push engagement to receive messages at point of use, for example.\n\n\n\n### New mobile features\n\nThings tend to make it to PWA, but this not such a bad thing. If you need the shinest features you might be better with Native.\n\n\"The web is never fashionable\" - https://ada.is/blog/2016/10/10/the-web-is-unfashionable/\n\n\"What exactly makes something a progressive web app\" https://infrequently.org/2016/09/what-exactly-makes-something-a-progressive-web-app/\n\n### Responsive extra bonus bit\n\nAdd <meta name=\"viewport\" content=\"width=device-width\"> to the <head> to remove the 300ms tap delay: https://developers.google.com/web/updates/2013/12/300ms-tap-delay-gone-away\n\n### Can you sell it\n\nThere is a coming payment API.\n\nBut…\n\nSelling an app and relying the price tag in the App Store as the business model is somewhat precarious - as such a tiny number of the apps get coverage on the main lists.\n\nChrome already has the payments API \n\n### Startup\n\nPWAs start faster than native apps.\n\n### What about cross browser support?\n\nThe main thing that might be a problem is service workers on mobile safari - Chrome, Firefox, Edge, and Opera have better support.\n\nYou can fall back to using Appcache on IOS\n\n### Working in  background\n\nWorks in background can listen for server event - do it can respond to polls\n\nBut having something like listening to a podcast - can be a bit tougher, because the browser will try to reclaim the memory from passive tabs. You can load it from the cache, but you can't see it.\n\nBackground sync isn't quite available yet- but on the wat\n\n\n### Use the web app for Facebook - they can't track you anywhere near as much\n\n\"The web has the most evil eyes looking at it, and the most good eyes looking it, so the security \n\n### How notifications API works\n\n\n### Showcase Apps\n\nPodle for Podcasts: https://podle.audio/v7/\nManifest: https://podle.audio/static/manifest.json\n----\n\n\n\n\n\n",
+    "id": 596,
+    "url": "https://public.etherpad-mozilla.org/p/mozfest-2016-what-s-a--progressive-web-app--and-ho/export/txt",
+    "empty": true,
+    "character_count": 0,
+    "term_occurrence": {
+        "open": 0,
+        "libre": 0,
+        "innovation": 0,
+        "inclusion": 0,
+        "privacy": 0,
+        "science": 0
+    }
+}

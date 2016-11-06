@@ -1,0 +1,26 @@
+{
+    "session_id": 505,
+    "title": "Telegram bot meets Arduino",
+    "views": 22,
+    "total_favs": 42,
+    "fav_count": 47,
+    "unfav_count": 5,
+    "session_notes": 15,
+    "space": "Dilemmas in connected spaces",
+    "pathway": "",
+    "language": "",
+    "etherpad": "https://public.etherpad-mozilla.org/p/mozfest-2016-telegram-bot-meets-arduino",
+    "notes": "Welcome to the Mozfest 2016 Teelgram Bot meets Arduino Session\n\nTeachers: \n\tDavide Gomba @vongomben\n\tTommaso Laterza  @tommasoltrz\n\t \nResources \nhttps://create.arduino.cc/projecthub/Arduino_Genuino/telegram-bot-library-ced4d4\nhttps://www.reddit.com/r/TelegramBots/\nhttps://medium.com/the-layer/the-future-of-conversational-ui-belongs-to-hybrid-interfaces-8a228de0bdb5#.khierzw51\nhttps://www.arduino.cc/en/Main/ArduinoMKR1000\n\n\n\nCode we used \n\n#include<WiFiSSLClient.h>\n#include <WiFi101.h>\n#include <SPI.h>\n#include <TelegramBot.h>\n\n// ldr input\nconst int analogInPin = A0;  // Analog input pin that the potentiometer is attached to\n\nint sensorValue = 0;        // value read from the pot\n\n\n// Initialize Wifi connection to the router\nchar ssid[] = \"WifiName\";             // your network SSID (name)\nchar pass[] = \"WifiPassword\";           // your network key\n\n\n// Initialize Telegram BOT\nconst char BotToken[] = \"youtuToken\";\nconst char BotName[] = \"tourName\";\nconst char BotUsername[] = \"yourUsername\";\n\n\nWiFiSSLClient client;\nTelegramBot bot (BotToken, BotName, BotUsername, client);\n\n\n\nvoid setup() {\n\n  Serial.begin(115200);\n  while (!Serial) {}\n  delay(3000);\n  pinMode(7, OUTPUT);\n\n\n  // attempt to connect to Wifi network:\n  Serial.print(\"Connecting Wifi: \");\n  Serial.println(ssid);\n  while (WiFi.begin(ssid, pass) != WL_CONNECTED) {\n    Serial.print(\".\");\n    delay(500);\n  }\n  Serial.println(\"\");\n  Serial.println(\"WiFi connected\");\n\n\n  bot.begin();\n\n}\n\nvoid loop() {\n\n  sensorValue = analogRead(analogInPin);\n\n  message m = bot.getUpdates(); // Read new messages\n  if (m.chat_id == Yourchat_id) { // Checks if it's me\n\n    // bot.sendMessage(m.chat_id, m.text);  // Reply to the same chat with the same text\n    if (m.text == \"turn on\") {\n      digitalWrite(7, HIGH);\n  //    Serial.println(\"Turned the light on\");\n      bot.sendMessage(m.chat_id, \"Hi man!, I turned the light on!\");\n\n    } else if (m.text == \"turn off\") {\n      digitalWrite(7, LOW);\n      Serial.println(\"Turned the light off\");\n    } else if (m.text == \"how much light?\"){\n      bot.sendMessage(m.chat_id, \"Hi man!, light is\");\n      bot.sendMessage(m.chat_id, String(sensorValue));\n\n      \n      }\n  } else {\n    Serial.println(\"no new message\");\n  }\n\n}\n\n",
+    "id": 505,
+    "url": "https://public.etherpad-mozilla.org/p/mozfest-2016-telegram-bot-meets-arduino/export/txt",
+    "empty": false,
+    "character_count": 2239,
+    "term_occurrence": {
+        "open": 0,
+        "libre": 0,
+        "innovation": 0,
+        "inclusion": 0,
+        "privacy": 0,
+        "science": 0
+    }
+}

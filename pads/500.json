@@ -1,0 +1,26 @@
+{
+    "session_id": 500,
+    "title": "Web Animation for Artists & Others",
+    "views": 0,
+    "total_favs": 22,
+    "fav_count": 27,
+    "unfav_count": 5,
+    "session_notes": 4,
+    "space": "Digital arts and culture",
+    "pathway": "",
+    "language": "",
+    "etherpad": "https://public.etherpad-mozilla.org/p/mozfest-2016-web-animation-for-artists---others",
+    "notes": "Welcome to Etherpad!\n\nThis pad text is synchronized as you type, so that everyone viewing this page sees the same text. This allows you to collaborate seamlessly on documents!\n\nGet involved with Etherpad at http://etherpad.org.\n\n\n#include <stdio.h>\n#include <string>\n\nusing namespace std;\n\nint main(){\n    string msg = \"Hello World\";\n    printf(\"%d\",msg);\n    return 0;\n    }\n",
+    "id": 500,
+    "url": "https://public.etherpad-mozilla.org/p/mozfest-2016-web-animation-for-artists---others/export/txt",
+    "empty": true,
+    "character_count": 0,
+    "term_occurrence": {
+        "open": 0,
+        "libre": 0,
+        "innovation": 0,
+        "inclusion": 0,
+        "privacy": 0,
+        "science": 0
+    }
+}

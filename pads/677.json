@@ -1,0 +1,26 @@
+{
+    "session_id": 677,
+    "title": "Build a Better Data Linter with DataProofer",
+    "views": 14,
+    "total_favs": 22,
+    "fav_count": 26,
+    "unfav_count": 4,
+    "session_notes": 10,
+    "space": "Journalism",
+    "pathway": "",
+    "language": "",
+    "etherpad": "https://public.etherpad-mozilla.org/p/mozfest-2016-build-a-better-data-linter-with-datap",
+    "notes": "To download and get Dataproofer started as a Desktop app, go to http://dataproofer.org/ and download the application for your operating system.\n\nTo use Dataproofer on the command line, open up a terminal window and type `npm install -g dataproofer`\n\nHaving issues? Raise your hand and we'll work on them, or leave a note!\nhttps://github.com/dataproofer/Dataproofer/issues\n\nhandy github repo for dataproofer:\nhttps://github.com/dataproofer/Dataproofer\n\nmoment is the library used to parse a date\nhttp://momentjs.com\n\n### Common default dates for things like Excel or Mac Excel\n\n01.01.1900 - Excel\n01.01.1904 - Excel for Mac\n\n## For org specific variants\n\nYou can pull in your own sets of tests like a normal npm project, creating new instances of a `DataProoferTest()`\n\nContact:\n    gerald.a.rich@gmail.com\n    dataproofer@dataproofer.org\n    @dataproofer\n\n### Questions about data proofer and the text exercise:\n    \n- how would would you share your tests and validators\n- can you check zipcodes against a whitelist in dataproofer?\n\t- Do US zipcodes have a set format that must conform to, like UK postcodes?\n\t\t- (this was answered. thanks!)\n\t\n",
+    "id": 677,
+    "url": "https://public.etherpad-mozilla.org/p/mozfest-2016-build-a-better-data-linter-with-datap/export/txt",
+    "empty": false,
+    "character_count": 1144,
+    "term_occurrence": {
+        "open": 1,
+        "libre": 0,
+        "innovation": 0,
+        "inclusion": 0,
+        "privacy": 0,
+        "science": 0
+    }
+}

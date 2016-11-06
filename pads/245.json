@@ -1,0 +1,26 @@
+{
+    "session_id": 245,
+    "title": "Nature, in Code - learning JavaScript to reason about our world in code",
+    "views": 25,
+    "total_favs": 55,
+    "fav_count": 59,
+    "unfav_count": 4,
+    "session_notes": 9,
+    "space": "Demystify the web",
+    "pathway": "",
+    "language": "",
+    "etherpad": "https://public.etherpad-mozilla.org/p/mozfest-2016-nature--in-code---learning-javascript",
+    "notes": "Welcome to Etherpad!\n\nGet involved with Etherpad at http://etherpad.org\n\nLink back to session debt:\n\n@marcelsalathe    \nhttps://app.mozillafestival.org/#_session-245\n\nMajor impediment in code for classes was getting people to set up their environment.\n\n\nEdX course\n\nLittle assumed coding\n\nShowing Shelling's model:\n\nShowing models of segregation\n\n\n\nThe students in his class learn to implement these models as a way to understand models as a tool for discourse\n\n\"Digital Epidemiologist\"\n\nThis used to be an entire PhD, \n\nI don't have death implemented here.\n\nIn the beginning, the student have to learn two things at once:\n    \nThey need to start coding with an empty editor:\n    \n- sliders and values aren't so successful for them to learn\n\nUniversity of Oslo want toi be able to implement all the curriculum \n\nGrumpy old people in python, but Marcel wants to implement in Javascript.\n\nHundreds of models from the IPCC reports, and other papers implemented in javascript\nhttps://github.com/openamee/datasets\n\nPurecode is a platform designed to provide \n\n\n### Other JS platforms:\n\nhttps://runkit.com/\n    \n\n",
+    "id": 245,
+    "url": "https://public.etherpad-mozilla.org/p/mozfest-2016-nature--in-code---learning-javascript/export/txt",
+    "empty": true,
+    "character_count": 0,
+    "term_occurrence": {
+        "open": 0,
+        "libre": 0,
+        "innovation": 0,
+        "inclusion": 0,
+        "privacy": 0,
+        "science": 0
+    }
+}

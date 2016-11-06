@@ -1,0 +1,26 @@
+{
+    "session_id": 568,
+    "title": "WebVR for the rest of us",
+    "views": 25,
+    "total_favs": 43,
+    "fav_count": 50,
+    "unfav_count": 7,
+    "session_notes": 4,
+    "space": "Journalism",
+    "pathway": "",
+    "language": "",
+    "etherpad": "https://public.etherpad-mozilla.org/p/mozfest-2016-webvr-for-the-rest-of-us",
+    "notes": "WebVR for the rest of us\n\n\t* Session host: Dan Zajdband, https://twitter.com/impronunciable \n\t* Slides:  https://docs.google.com/presentation/d/1eHPLm66_cENEmqgzs_UPDp8wpTuRJANKck9OOGpkekM/pub?start=false&loop=false&delayms=3000\n\t* A-Frame: https://aframe.io/\n\t* A-Frame slack group (One of the most welcoming tech communities ever) https://aframevr-slack.herokuapp.com/\n\t* GuriVR: https://gurivr.com/ (source https://github.com/opennewslabs/guri-vr)\n\t* My article on WebVR: https://source.opennews.org/en-US/articles/virtual-reality-rest-us/\n\t* Google Street View app\n\t\t* Android: https://play.google.com/store/apps/details?id=com.google.android.street\n\t\t* iOS: https://itunes.apple.com/us/app/google-street-view/id904418768?mt=8\n\t* Flickr equirectangular group https://www.flickr.com/groups/equirectangular/\n\nPlease add your stuff here: Examples created with GuriVR in today's session:\n\t*     https://gurivr.com/stories/58146e6fd474d5680cc71573\n\n\n\n",
+    "id": 568,
+    "url": "https://public.etherpad-mozilla.org/p/mozfest-2016-webvr-for-the-rest-of-us/export/txt",
+    "empty": false,
+    "character_count": 950,
+    "term_occurrence": {
+        "open": 2,
+        "libre": 0,
+        "innovation": 0,
+        "inclusion": 0,
+        "privacy": 0,
+        "science": 0
+    }
+}

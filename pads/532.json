@@ -1,0 +1,26 @@
+{
+    "session_id": 532,
+    "title": "News apps: how to make your audience care about your data",
+    "views": 29,
+    "total_favs": 45,
+    "fav_count": 45,
+    "unfav_count": 0,
+    "session_notes": 8,
+    "space": "Journalism",
+    "pathway": "Storytelling",
+    "language": "",
+    "etherpad": "https://public.etherpad-mozilla.org/p/mozfest-2016-news-apps--how-to-make-your-audience",
+    "notes": "News apps: how to make your audience care about your data\n\nSlides: https://docs.google.com/presentation/d/1epDxJdOEoDNW1IxU5G7Zq4kdXgWIXULAi6dBtAE_pkA\n\nYou've found this data story – how do you tell it?\n\n\t* Find people who exemplify it! \n\tThis helps you create empathy about issues that relate to your data set\n\t\n\tExamples: \n\thttp://www.nytimes.com/2016/08/21/us/milwaukee-segregation-wealthy-black-families.html?_r=1&mtrref=undefined&gwh=879B42F7415BEF7FE712EB5B8CF0CECE&gwt=pay\n\t\n\t* Allow people to explore it!\n\tThis gives  people the opportunity to find their own story in the data. \n\t\n\tExamples: \n\thttp://graphics.wsj.com/documents/student-debt-low-income/\n\thttps://correctiv.org/en/investigations/nursing-homes/guide\n\t\n\t\n\t* Editorialize and visualize it!\n\tBy doing some math and analysis and by visualizing your data, you can help your audience identify trends and anomalies\n\t\n\tExamples:\n\thttp://www.nytimes.com/interactive/2014/02/09/opinion/minimum-wage.html\n\thttp://graphics.wsj.com/gender-pay-gap/\n\t\n\t* Make people play with it!\n\tBy allowing people to play with the data, you give them agency over an outcome and you can help them understand how the datasets relate to one another\n\t\n\tExamples:\n\thttp://www.nytimes.com/interactive/2014/02/09/opinion/minimum-wage.html \n\thttps://projects.propublica.org/graphics/afghan\n\t\n---\n\nDefinition: News Apps vs. News Graphics\n\nGraphics tend to tell a single story while news applications tell many – specifically, news applications let readers see how they're personally affected.\n— ProPublica Data Style Guide / https://github.com/propublica/guides/blob/master/news-apps.md\n\n---\n\nExercise: Make a paper prototype\n\nExample datasets:\n\n\t* European Beer Statistics \n\thttps://docs.google.com/spreadsheets/d/14dWukt7fHQLa1xVBO_Xvqq284pDpEobAfPcpDrOe2Hk/edit?usp=sharing \n\thttp://www.brewersofeurope.org/uploads/mycms-files/documents/publications/2015/statistics_2015_v3.pdf \n\t\n\t* American Time Use Survey\n\thttp://www.bls.gov/tus/ \n\t\n\t* US Fisheries Statistics\n\thttps://www.st.nmfs.noaa.gov/commercial-fisheries/commercial-landings/\n\n\n---\n\n",
+    "id": 532,
+    "url": "https://public.etherpad-mozilla.org/p/mozfest-2016-news-apps--how-to-make-your-audience/export/txt",
+    "empty": false,
+    "character_count": 2081,
+    "term_occurrence": {
+        "open": 0,
+        "libre": 0,
+        "innovation": 0,
+        "inclusion": 0,
+        "privacy": 0,
+        "science": 0
+    }
+}

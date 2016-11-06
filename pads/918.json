@@ -1,0 +1,26 @@
+{
+    "session_id": 918,
+    "title": "Science Fair",
+    "views": 91,
+    "total_favs": 120,
+    "fav_count": 146,
+    "unfav_count": 26,
+    "session_notes": 126,
+    "space": "Programmatic Pieces",
+    "pathway": "",
+    "language": "",
+    "etherpad": "https://public.etherpad-mozilla.org/p/mozfest-2016-science-fair",
+    "notes": "w\n",
+    "id": 918,
+    "url": "https://public.etherpad-mozilla.org/p/mozfest-2016-science-fair/export/txt",
+    "empty": false,
+    "character_count": 2,
+    "term_occurrence": {
+        "open": 0,
+        "libre": 0,
+        "innovation": 0,
+        "inclusion": 0,
+        "privacy": 0,
+        "science": 1
+    }
+}
