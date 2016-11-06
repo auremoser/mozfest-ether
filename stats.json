@@ -1,0 +1,202 @@
+{
+    "errors": 15,
+    "total_etherpads": 247,
+    "youth_zone": {
+        "etherpads": 21,
+        "character_count": 115,
+        "empty": 20,
+        "total_favs": 405,
+        "fav_count": 503,
+        "unfav_count": 98,
+        "session_notes": 39,
+        "views": 184,
+        "term_occurrence": {
+            "open": 0,
+            "libre": 0,
+            "innovation": 0,
+            "inclusion": 0,
+            "privacy": 0,
+            "science": 0
+        }
+    },
+    "localisation": {
+        "etherpads": 10,
+        "character_count": 2700,
+        "empty": 9,
+        "total_favs": 251,
+        "fav_count": 272,
+        "unfav_count": 21,
+        "session_notes": 26,
+        "views": 212,
+        "term_occurrence": {
+            "open": 0,
+            "libre": 0,
+            "innovation": 0,
+            "inclusion": 0,
+            "privacy": 0,
+            "science": 0
+        }
+    },
+    "demystify_the_web": {
+        "etherpads": 43,
+        "character_count": 36561,
+        "empty": 31,
+        "total_favs": 1419,
+        "fav_count": 1546,
+        "unfav_count": 127,
+        "session_notes": 281,
+        "views": 967,
+        "term_occurrence": {
+            "open": 31,
+            "libre": 0,
+            "innovation": 8,
+            "inclusion": 0,
+            "privacy": 3,
+            "science": 13
+        }
+    },
+    "digital_arts_and_culture": {
+        "etherpads": 26,
+        "character_count": 12396,
+        "empty": 21,
+        "total_favs": 774,
+        "fav_count": 872,
+        "unfav_count": 98,
+        "session_notes": 169,
+        "views": 547,
+        "term_occurrence": {
+            "open": 1,
+            "libre": 0,
+            "innovation": 1,
+            "inclusion": 0,
+            "privacy": 0,
+            "science": 0
+        }
+    },
+    "open_badges": {
+        "etherpads": 10,
+        "character_count": 830,
+        "empty": 9,
+        "total_favs": 200,
+        "fav_count": 231,
+        "unfav_count": 31,
+        "session_notes": 33,
+        "views": 98,
+        "term_occurrence": {
+            "open": 2,
+            "libre": 0,
+            "innovation": 0,
+            "inclusion": 0,
+            "privacy": 0,
+            "science": 0
+        }
+    },
+    "fuel_the_movement": {
+        "etherpads": 19,
+        "character_count": 1376,
+        "empty": 17,
+        "total_favs": 507,
+        "fav_count": 540,
+        "unfav_count": 33,
+        "session_notes": 62,
+        "views": 438,
+        "term_occurrence": {
+            "open": 0,
+            "libre": 0,
+            "innovation": 0,
+            "inclusion": 0,
+            "privacy": 0,
+            "science": 0
+        }
+    },
+    "dilemmas_in_connected_spaces": {
+        "etherpads": 39,
+        "character_count": 5545,
+        "empty": 29,
+        "total_favs": 1155,
+        "fav_count": 1307,
+        "unfav_count": 152,
+        "session_notes": 235,
+        "views": 778,
+        "term_occurrence": {
+            "open": 6,
+            "libre": 0,
+            "innovation": 0,
+            "inclusion": 0,
+            "privacy": 2,
+            "science": 0
+        }
+    },
+    "open_science": {
+        "etherpads": 22,
+        "character_count": 20236,
+        "empty": 11,
+        "total_favs": 673,
+        "fav_count": 741,
+        "unfav_count": 68,
+        "session_notes": 224,
+        "views": 824,
+        "term_occurrence": {
+            "open": 56,
+            "libre": 1,
+            "innovation": 5,
+            "inclusion": 0,
+            "privacy": 0,
+            "science": 53
+        }
+    },
+    "journalism": {
+        "etherpads": 29,
+        "character_count": 29134,
+        "empty": 15,
+        "total_favs": 986,
+        "fav_count": 1090,
+        "unfav_count": 104,
+        "session_notes": 196,
+        "views": 616,
+        "term_occurrence": {
+            "open": 13,
+            "libre": 1,
+            "innovation": 1,
+            "inclusion": 0,
+            "privacy": 0,
+            "science": 0
+        }
+    },
+    "dialogues_and_debates_speakers_series": {
+        "etherpads": 5,
+        "character_count": 0,
+        "empty": 5,
+        "total_favs": 250,
+        "fav_count": 260,
+        "unfav_count": 10,
+        "session_notes": 20,
+        "views": 149,
+        "term_occurrence": {
+            "open": 0,
+            "libre": 0,
+            "innovation": 0,
+            "inclusion": 0,
+            "privacy": 0,
+            "science": 0
+        }
+    },
+    "programmatic_pieces": {
+        "etherpads": 8,
+        "character_count": 47,
+        "empty": 5,
+        "total_favs": 474,
+        "fav_count": 559,
+        "unfav_count": 85,
+        "session_notes": 199,
+        "views": 145,
+        "term_occurrence": {
+            "open": 0,
+            "libre": 0,
+            "innovation": 0,
+            "inclusion": 0,
+            "privacy": 0,
+            "science": 1
+        }
+    }
+}
