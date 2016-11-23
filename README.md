@@ -22,10 +22,15 @@ Hopefully, we can create some kind of reusable process for mining the etherpads.
   
 ## Output
 
-This script creates:
+`index.js` script creates:
 
 * 1 json file per etherpad with text contents
 * 1 `stats.json` file with brief counts and general things listed in the requirements
+
+`index-empty.js` script creates:
+* 1 json file per etherpad with text contents
+* 1 `stats.json` file with brief counts and general things listed in the requirements
+* difference from `index.js`: this one kicks out default etherpad text from the counts, so that empty or "default text" etherpads are not counted in stats
 
 ### To run:
 
