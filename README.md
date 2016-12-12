@@ -34,7 +34,7 @@ Hopefully, we can create some kind of reusable process for mining the etherpads.
 
 ### To run:
 
-1. Convert Matthew's CSV from the spreadsheet into JSON format using a [tool like this one][http://www.convertcsv.com/csv-to-json.htm].
+1. Convert Matthew's CSV from the spreadsheet into JSON format using a [tool like this one](http://www.convertcsv.com/csv-to-json.htm).
 2. npm install `request-promise`
 3. `node index.js`
 4. Use the `index.js` script to collect each etherpad's URLs and download the content for each, creating a txt file for each. 
